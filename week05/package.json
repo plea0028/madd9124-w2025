@@ -1,0 +1,27 @@
+{
+  "name": "madd9124-w2025",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/plea0028/madd9124-w2025#readme",
+  "bugs": {
+    "url": "https://github.com/plea0028/madd9124-w2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plea0028/madd9124-w2025.git"
+  },
+  "license": "ISC",
+  "author": "James Pleau",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
